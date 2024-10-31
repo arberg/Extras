@@ -1,13 +1,13 @@
 {
-    "version": "24.08-8320",
+    "version": "24.08-8321",
     "description": "Multi-document editor",
     "homepage": "https://kate-editor.org",
     "license": "LGPL-2.0-only",
     "notes": "If you want to get the latest development branch-based installer, please install `kate-nightly` from Versions bucket.",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.kde.org/ci-builds/utilities/kate/release-24.08/windows/kate-release_24.08-8320-windows-cl-msvc2022-x86_64.7z",
-            "hash": "09d098c55b71bdf00eaab5d596c16142286a0d211c99a6ed4c664d3bf981eca3"
+            "url": "https://cdn.kde.org/ci-builds/utilities/kate/release-24.08/windows/kate-release_24.08-8321-windows-cl-msvc2022-x86_64.7z",
+            "hash": "b9015b0edd5c251ed4635a4b14bc2cdc1f2b5162ad88562a6b2db352c31ebd63"
         }
     },
     "bin": "bin\\kate.exe",

@@ -1,14 +1,14 @@
 {
     "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "description": "Easy-to-use image converter for modern formats. Supports multithreading, drag 'n drop, and downscaling.",
     "homepage": "https://codepoems.eu/xl-converter/",
     "license": "GPL-3.0",
     "depends": "extras/vcredist2022",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JacobDev1/xl-converter/releases/download/v1.2.1/xl-converter-win-1.2.1-x86_64.exe",
-            "hash": "3f77a168d92dc2b73a28bf68481cec671c2fa39d2806578fedfc642cd4e7b7c3"
+            "url": "https://github.com/JacobDev1/xl-converter/releases/download/v1.2.2/xl-converter-win-1.2.2-x86_64.exe",
+            "hash": "47bb23afcf788ee5a59452e1cb70a4d6124701d44481f47d5e5177d6405caa7c"
         }
     },
     "innosetup": true,
